@@ -1,12 +1,10 @@
 
 {
-    "name": "RoboticsWorkshop",
-    "version": "0.0.0",
-    "description": "智高提供的積木方塊。Blocks provided by Gigo。",
-    "icon": "https://raw.githubusercontent.com/gigotoys/Gigo-tools/main/icon/230707.PNG",
-    "license": "MIT",
-    "dependencies": {
-        "core": "*"
+ "name": "RoboticsWorkshop",
+  "description": "Extension for controlling Gigo Robotics with micro:bit",
+  "icon": "icon.png",
+  "color": "#0fbd8c",
+  "categories": ["robotics", "Gigo"],
 
     },
     "files": [
