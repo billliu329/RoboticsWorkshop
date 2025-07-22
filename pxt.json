@@ -6,7 +6,7 @@
   "color": "#0fbd8c",
   "categories": ["robotics", "Gigo"],
 
-    },
+    
     "files": [
         "README.md",
         "main.ts",
