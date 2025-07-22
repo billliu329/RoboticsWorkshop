@@ -38,3 +38,6 @@ https://github.com/billliu329/RoboticsWorkshop
 本專案以 MIT License 授權，歡迎自由應用與修改。
 著作權 © Gigo Toys
 僅供教育學習用途使用。
+```package
+RoboticsWorkshop=github:thamesandkosmos/RoboticsWorkshop
+```
