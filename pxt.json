@@ -1,11 +1,12 @@
 
 {
- "name": "RoboticsWorkshop",
-  "description": "Extension for controlling Gigo Robotics with micro:bit",
-  "icon": "icon.png",
-  "color": "#0fbd8c",
-  "categories": ["robotics", "Gigo"],
-
+"name": "RoboticsWorkshop",
+  "version": "0.0.1",
+  "description": "Gigo 提供的 micro:bit 擴展模組",
+  "license": "MIT",
+  "dependencies": {
+    "core": "*"
+  },
     
     "files": [
         "README.md",
